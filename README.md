@@ -1,6 +1,6 @@
 # zomato-restaurant-analysis-and-predictions
 
-In this notebook, we will analyze the Zomato Bengalore Restaurants dataset. The goal of this project is to provide decision power for decision makers when looking at informations about Bengalore restaurants. For this we will:
+In this notebook, we will analyze the Zomato Bangalore Restaurants dataset. For this we will:
 
 - Get intuition about the data
 - Do an exploratory data analysis
