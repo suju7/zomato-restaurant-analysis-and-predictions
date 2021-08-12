@@ -1,6 +1,6 @@
 # zomato-restaurant-analysis-and-predictions
 
-In this notebook, we will analyze the Zomato Bangalore Restaurants dataset. For this we will:
+In this project, we will analyze the Zomato Bangalore Restaurants dataset. For this we will:
 
 - Get intuition about the data
 - Do an exploratory data analysis
