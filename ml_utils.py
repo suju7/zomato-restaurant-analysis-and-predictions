@@ -9,10 +9,6 @@ can focus on model improvement and code structure.
 1. Classification
     1.1 Classifiers Analysis
 2. Clustering
-
----------------------------------------------------------------
-Written by Thiago Panini - Latest version: September 15th 2020
----------------------------------------------------------------
 """
 
 # Importing libraries
